@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coding Dojo 2", "Coding Dojo 2\Coding Dojo 2.csproj", "{81192602-D745-42A9-B7B7-9E22F93AE23A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{FC9948B9-3C1A-463D-B0AD-F24B373ECC35}"
+	ProjectSection(SolutionItems) = preProject
+		Coding Dojo 2\Images\Bell New-WF.png = Coding Dojo 2\Images\Bell New-WF.png
+		Coding Dojo 2\Images\Clock-01.png = Coding Dojo 2\Images\Clock-01.png
+		Coding Dojo 2\Images\Cloud sun02-WF.png = Coding Dojo 2\Images\Cloud sun02-WF.png
+		Coding Dojo 2\Images\Cloud-Overcast.png = Coding Dojo 2\Images\Cloud-Overcast.png
+		Coding Dojo 2\Images\Door closed-WF.png = Coding Dojo 2\Images\Door closed-WF.png
+		Coding Dojo 2\Images\Forecast weather -WF.png = Coding Dojo 2\Images\Forecast weather -WF.png
+		Coding Dojo 2\Images\Head Phone-02-WF.png = Coding Dojo 2\Images\Head Phone-02-WF.png
+		Coding Dojo 2\Images\House.png = Coding Dojo 2\Images\House.png
+		Coding Dojo 2\Images\Lock-WF.png = Coding Dojo 2\Images\Lock-WF.png
+		Coding Dojo 2\Images\Man-01.png = Coding Dojo 2\Images\Man-01.png
+		Coding Dojo 2\Images\Message Mail-WF.png = Coding Dojo 2\Images\Message Mail-WF.png
+		Coding Dojo 2\Images\Plug-WF.png = Coding Dojo 2\Images\Plug-WF.png
+		Coding Dojo 2\Images\Rain-WF.png = Coding Dojo 2\Images\Rain-WF.png
+		Coding Dojo 2\Images\Sofa-01-WF.png = Coding Dojo 2\Images\Sofa-01-WF.png
+		Coding Dojo 2\Images\Solar.png = Coding Dojo 2\Images\Solar.png
+		Coding Dojo 2\Images\Speaker Decrease - 01.png = Coding Dojo 2\Images\Speaker Decrease - 01.png
+		Coding Dojo 2\Images\Speaker Increase - 02.png = Coding Dojo 2\Images\Speaker Increase - 02.png
+		Coding Dojo 2\Images\Speaker Mute - 04.png = Coding Dojo 2\Images\Speaker Mute - 04.png
+		Coding Dojo 2\Images\Tasks.png = Coding Dojo 2\Images\Tasks.png
+		Coding Dojo 2\Images\Temperature Warning-WF.png = Coding Dojo 2\Images\Temperature Warning-WF.png
+		Coding Dojo 2\Images\Temperature-02-WF.png = Coding Dojo 2\Images\Temperature-02-WF.png
+		Coding Dojo 2\Images\Unlock-WF.png = Coding Dojo 2\Images\Unlock-WF.png
+		Coding Dojo 2\Images\Warning-WF.png = Coding Dojo 2\Images\Warning-WF.png
+		Coding Dojo 2\Images\Weather-01.png = Coding Dojo 2\Images\Weather-01.png
+		Coding Dojo 2\Images\Wind.png = Coding Dojo 2\Images\Wind.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81192602-D745-42A9-B7B7-9E22F93AE23A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81192602-D745-42A9-B7B7-9E22F93AE23A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81192602-D745-42A9-B7B7-9E22F93AE23A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81192602-D745-42A9-B7B7-9E22F93AE23A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96F8E5FC-EF7E-4D29-B5CB-BCC3601693A4}
+	EndGlobalSection
+EndGlobal
