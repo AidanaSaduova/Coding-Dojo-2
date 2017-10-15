@@ -89,7 +89,7 @@
                         </StackPanel>
                         <Border BorderBrush="LightGray" BorderThickness="0,0,0,1">
                             <StackPanel Orientation="Vertical" Margin="0,0,0,10">
-                                <Label Content="12:35" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="18" Foreground="White"/>
+                                <Label Content="12:34" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="18" Foreground="White"/>
                             </StackPanel>
                         </Border>
                     </StackPanel>
